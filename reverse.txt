@@ -4,4 +4,4 @@ This ia a program which is going to reverse two numbers#!/bin/bash
 
 This ia a program which is going to reverse two numbers#!/bin/bash
 
-This ia a program which is going to reverse two numbers
+This is a program which is going to reverse two numbers
